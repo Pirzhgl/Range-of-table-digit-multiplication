@@ -1,0 +1,1 @@
+# Range-of-table-digit-multiplication
